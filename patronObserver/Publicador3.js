@@ -2,7 +2,7 @@ class Observable {
     constructor() {
       this.subscriptors = [];
     }
-
+    periodico
     subscribe(subscriptor) {
       this.subscriptors.push(subscriptor);
     }
