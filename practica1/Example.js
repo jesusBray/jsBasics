@@ -1,6 +1,6 @@
 var Example = {
 
-    dat:'une dat',
+    dat:'one date',
     dat2:function(){
         
     }
