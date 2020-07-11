@@ -1,5 +1,5 @@
 
-const Start = "hola mundo";
+const Start = "hello world";
 let Connect= {
     start:Start,
 }
