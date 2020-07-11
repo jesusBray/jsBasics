@@ -7,7 +7,7 @@ function HaciendoClic(){
 }
 
 var persona = {
-    nombre:'jesus',
+    nombre:'Rick',
     edad:25,
     RasgosFisicos:{
         colorPiel:'morena',
